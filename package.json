@@ -1,5 +1,5 @@
 {
-  "name": "backendcoderhouse",
+  "name": "backenddesafio4mg",
   "version": "1.0.0",
   "description": "",
   "main": "src/app.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MatiasAndrade1995/BackEndCoderHouse.git"
+    "url": "git+https://github.com/mgdomm/BackEnd-Desafio4-Mg.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MatiasAndrade1995/BackEndCoderHouse/issues"
+    "url": "https://github.com/mgdomm/BackEnd-Desafio4-Mg.git/issues"
   },
-  "homepage": "https://github.com/MatiasAndrade1995/BackEndCoderHouse#readme",
+  "homepage": "https://github.com/mgdomm/BackEnd-Desafio4-Mg.git#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
@@ -26,5 +26,6 @@
     "nodemon": "^2.0.22",
     "socket.io": "^4.6.1",
     "uuid4": "^2.0.3"
+
   }
 }
